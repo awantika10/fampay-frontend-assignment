@@ -1,0 +1,30 @@
+.HC9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1rem;
+    margin: 1rem;
+}
+
+.grad1 {
+    width: 20%;
+    height: 30vh;
+    background: linear-gradient(335.97deg, #FBAF03 3.44%, #FFD428 86.36%);
+    border-radius: 10px;
+}
+
+.grad2 {
+    width: 30%;
+    height: 30vh;
+    background: linear-gradient(335.97deg, #FF8749 3.44%, #454AA6 86.36%);
+    border-radius: 10px;
+}
+
+.grad3 {
+    width:50%;
+    height: 30vh;
+    background: linear-gradient(335.97deg, #000000 3.44%, #28FFA5 86.36%);
+    border-radius: 10px;
+
+}

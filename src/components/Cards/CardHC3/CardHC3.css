@@ -1,0 +1,84 @@
+.cardHC3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.App-header {
+    position: absolute;
+    width: 15rem;
+    height: 15rem;
+  }
+  
+  .App-into {
+    /* position: fixed; */
+    width: 15rem;
+    height: 16rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .cont2 {
+    margin-left: 8rem;
+  }
+
+  .banner {
+    width: 100%;
+    position: absolute;
+    border-radius: 10px;
+  }
+
+  .content {
+    position: absolute;
+    padding: 5rem 0 1rem 1rem;
+    text-align: start;
+  }
+
+  .content > h1 {
+    font-size: large;
+    line-height: 2rem;
+  }
+
+  .btn {
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+  }
+
+  .buttonBack {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 25% 0 0 0;
+    gap: 2rem;
+  }
+
+  .btnBack {
+    border: none;
+    height: 3.5rem;
+    /* margin: 0.8rem; */
+    background-color: #F7F6F3;
+    color: #000000;
+    border-radius: 8px;
+  }
+
+  .btn-back {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.3rem;
+    background-color: #F7F6F3;
+
+    margin-left: 0.5rem;
+    padding: 0.7rem;
+    border-radius: 8px;
+  }
+
+  .btn-back > input {
+    border:none;
+    background-color: transparent;
+  }

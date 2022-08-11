@@ -1,0 +1,17 @@
+.cardHC5 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.imgHC5 {
+    width: 90%;
+    padding: 1rem 0;
+}
+
+.imgHC5main {
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+}

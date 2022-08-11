@@ -1,0 +1,43 @@
+.cardHC6 {
+    width: 100%;
+    height:  10vh;
+    display: flex;
+    align-items: center;
+}
+.cardHC6 > h5 {
+    padding-left: 1rem;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.arrow {
+    width:4rem
+}
+
+.card {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+    border-radius: 0.6rem;
+    width: 100%;
+}
+
+.card > span {
+    padding-left: 5rem;
+    font-weight: 700;
+}
+
+.iconOne {
+    width: 10%;
+    padding-left: 1rem;
+}
+
+.iconTwo {
+    width: 3%;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
