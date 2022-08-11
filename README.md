@@ -37,7 +37,7 @@
 [![made-with-react](https://img.shields.io/badge/Made%20with%20-React-yellow)](https://reactjs.org/) <br>
 1. Make sure that you have `Node.js and npm` installed. Run `npm -v` to check the current version.
 2. Clone this repo using git clone `https://github.com/awantika10/fampay-frontend-assignment.git`
-3. Move to the appropriate directory: `cd fampay-assignment`
+3. Move to the appropriate directory: `cd fampay-frontend-assignment`
 4. Run `npm install `in order to install dependencies 
 5. At this point you can run `npm start` to see the app at `http://localhost:3000`
 
